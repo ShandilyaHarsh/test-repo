@@ -1,0 +1,19 @@
+{
+  "name": "harsh-test",
+  "version": "1.0.0",
+  "description": "This is a test package",
+  "main": "test_app.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShandilyaHarsh/forTesting.git"
+  },
+  "author": "Harsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShandilyaHarsh/forTesting/issues"
+  },
+  "homepage": "https://github.com/ShandilyaHarsh/forTesting#readme"
+}
